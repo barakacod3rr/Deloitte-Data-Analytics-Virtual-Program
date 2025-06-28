@@ -39,7 +39,7 @@ For the visuals, I decided on using bar charts and create 2 bar charts for the
 
 ## C: VISUAL CREATIONS
 After choosing the visuals I made the data Visualizations in PowerBI. Below are the images of the visualizations:
-![Monthly Revenue Trends in 2011](TataLineGraph.png)
+![Factory‑level breakdown dashboard](Screenshot%202025-06-26%20230657.png)
 Built Tableau dashboards displaying:
 
 - Factory-wise total breakdown time
@@ -47,7 +47,7 @@ Built Tableau dashboards displaying:
 - Most failure-prone machine types
 
 The insights in Tablaeu was that:
-- Daikiko Factory Seiko  - laser Welder, 480 mins
+- Daikiko Factory Seiko  - laser Welder, 480 mins - THE MAIN ANSWER
 - Daikiko Factory Shenzen - Laser Cutterx, 390 mins
 - Daikiko Factory Meiyo - Heavy Duty Drill, 70 mins
 - Daikiko Factory Berlin - Furnace, 20 mins
@@ -67,7 +67,8 @@ Unfair (<–10 and >10)
 
 Highly Discriminative (<–20 and >20)
 
-Used Excel formulas to automate classification across all records.
+I downloaded the file below in Github:
+[📊 View Task 5 Equality Table (Excel)](Task%205%20Equality%20Table.xlsx) 
 
 ## 📊 C: Results Sharing
 Summarized findings in an Excel workbook with clear visual indicators.
