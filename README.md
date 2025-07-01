@@ -75,7 +75,7 @@ Summarized findings in an Excel workbook with clear visual indicators.
 
 ## Certificate of Completion
 
-[🔗  (Certificate PDF)](Tata_certificate_EannBaraka.pdf) 
+[🔗  (Certificate PDF)](DelotteCert_EannBaraka.pdf) 
 
 
 
