@@ -38,7 +38,7 @@ But I was to model a calculated field in Tableau called "Unhealthy" assigning a 
 For the visuals, I decided on using bar charts and create 2 bar charts for the 
 
 ## C: VISUAL CREATIONS
-After choosing the visuals I made the data Visualizations in PowerBI. Below are the images of the visualizations:
+After choosing the visuals I made the data Visualizations in Tableau. Below are the images of the visualizations:
 ![Factory‑level breakdown dashboard](Screenshot%202025-06-26%20230657.png)
 Built Tableau dashboards displaying:
 
